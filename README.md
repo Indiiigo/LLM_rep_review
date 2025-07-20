@@ -1,5 +1,5 @@
 # Systematic Review of the Demographic Representativeness of LLMs
-Code repository for the ACL 2025 Findings paper: ["Do Large Language Models Represent the People? A Systematic Literature Review on the Demographic Representativeness of Large Language Models"](https://osf.io/preprints/socarxiv/vk3x6_v1)
+Code repository for the ACL 2025 Findings paper: ["Missing the Margins: A Systematic Literature Review on the Demographic Representativeness of LLMs."](https://osf.io/preprints/socarxiv/vk3x6_v1)
 
 ### Data
 
